@@ -1,6 +1,7 @@
 # Rioux_Exercise_5
 
 ## Courte bibliographie
+Coucou,
 Je m'appelle Naomie et je suis présentement étudiante à la maîtrise!
 
 ## Image
